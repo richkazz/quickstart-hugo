@@ -1,6 +1,6 @@
 baseURL = "https://hugo-test-ashc.onrender.com/"
 languageCode = "en-us"
-title = "Alpha Church"
+title = "Richkazz"
 theme = "alpha-church"
 
 rssLimit = 5
